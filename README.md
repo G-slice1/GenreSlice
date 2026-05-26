@@ -18,6 +18,8 @@ Current release:
 
 **GenreSlice v1.0.0 Beta**
 
+[Download GenreSlice v1.0.0 Beta](https://github.com/G-slice1/GenreSlice/releases/tag/v1.0.0-beta)
+
 Installer:
 
 ```text
@@ -29,8 +31,6 @@ SHA-256:
 ```text
 F7E6585257C970DB58AFCE7FD4B641D8046DA34E3DA1C3D86D32A9460768098A
 ```
-
-Only download GenreSlice from the official GitHub release page.
 
 ---
 
