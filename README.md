@@ -16,20 +16,20 @@ Start with any Spotify playlist. GenreSlice builds an interactive genre browser,
 
 Current release:
 
-**GenreSlice v1.0.0 Beta**
+**GenreSlice v1.0.1 Beta**
 
-[Download GenreSlice v1.0.0 Beta](https://github.com/G-slice1/GenreSlice/releases/tag/v1.0.0-beta)
+[Download GenreSlice v1.0.1 Beta](https://github.com/G-slice1/GenreSlice/releases/tag/v1.0.1-beta)
 
 Installer:
 
 ```text
-GenreSliceSetup_v1.0.0-beta.exe
+GenreSliceSetup_v1.0.1-beta.exe
 ```
 
 SHA-256:
 
 ```text
-F7E6585257C970DB58AFCE7FD4B641D8046DA34E3DA1C3D86D32A9460768098A
+703EC93CDD3FAD175525F01973E2CD5A57B2819BFD3056ABF65A41E30B015F5E
 ```
 
 ---
@@ -95,7 +95,7 @@ GenreSlice guides you through Spotify and Discogs setup inside the app.
 
 ## Install
 
-1. Download `GenreSliceSetup_v1.0.0-beta.exe` from the official GitHub release page.
+1. Download `GenreSliceSetup_v1.0.1-beta.exe` from the official GitHub release page.
 2. Run the installer.
 3. Open GenreSlice.
 4. Choose a data folder for your playlist workspaces.
@@ -223,17 +223,17 @@ These files are not bundled in the installer.
 Current release:
 
 ```text
-GenreSlice v1.0.0 Beta
+GenreSlice v1.0.1 Beta
 ```
 
 Installer:
 
 ```text
-GenreSliceSetup_v1.0.0-beta.exe
+GenreSliceSetup_v1.0.1-beta.exe
 ```
 
 SHA-256:
 
 ```text
-F7E6585257C970DB58AFCE7FD4B641D8046DA34E3DA1C3D86D32A9460768098A
+703EC93CDD3FAD175525F01973E2CD5A57B2819BFD3056ABF65A41E30B015F5E
 ```
